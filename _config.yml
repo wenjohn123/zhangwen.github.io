@@ -20,7 +20,7 @@ repository               : "https://github.com/wenjohn123?tab=repositories"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my_pic.jpg"
+  avatar           : "my_pic.png"
   name             : "Zhang Wen(温章)"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
