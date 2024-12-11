@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Bio"
 title_separator          : "-"
 name                     : &name "Zhang Wen"
-url                      : https://wenzhang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://wenjohn123.github.io/zhangwen.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : 
 
@@ -26,7 +26,7 @@ author:
   bio              : "Ocean University of China"
   location         : "China"
   employer         : 
-  uri              : "https://wenzhang.github.io"
+  uri              : "https://wenjohn123.github.io/zhangwen.github.io/"
   email            : "wenzhange@stu.ouc.edu.cn" 
 
   # Academic websites
