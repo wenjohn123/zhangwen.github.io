@@ -20,7 +20,7 @@ repository               :
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mypic.png"
+  avatar           : #"mypic.png"
   name             : "Zhang Wen(温章)"
   pronouns         : # example: "she/her"  
   bio              : "Ocean University of China"
