@@ -11,6 +11,6 @@ I'm a forth year undergraduate student from [Faculty of Information Science and 
 
 I am very fortunate to be advised by [Prof. Junyu Dong](https://it.ouc.edu.cn/djy/main.htm), Ocean University of China. I will be advised by [Prof. Yebin Liu](http://www.liuyebin.com), Tsinghua University.
 
-You can find my CV here: [Zhang Wen's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Zhang Wen's Curriculum Vitae](../assets/Zhang_Wen_CV.pdf).
 
 [Email](mailto:wenzhang@stu.ouc.edu.cn) / [Github](https://github.com/wenjohn123) 
