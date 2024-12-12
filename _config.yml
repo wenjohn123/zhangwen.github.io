@@ -20,14 +20,14 @@ repository               :
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"mypic.png"
-  name             : #"Zhang Wen(温章)"
+  avatar           : "mypic.png"
+  name             : "Zhang Wen(温章)"
   pronouns         : # example: "she/her"  
-  bio              : #"Ocean University of China"
-  location         : #"China"
+  bio              : "Ocean University of China"
+  location         : "China"
   employer         : 
-  uri              : #"https://wenjohn123.github.io/zhangwen.github.io/"
-  email            : #"wenzhange@stu.ouc.edu.cn" 
+  uri              : "https://wenjohn123.github.io/zhangwen.github.io/"
+  email            : "wenzhange@stu.ouc.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
