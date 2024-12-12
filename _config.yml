@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Zhang Wen/Personal Page"
-title_separator          : "-"
-name                     : &name "Zhang Wen"
-url                      : "https://wenjohn123.github.io/zhangwen.github.io/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+locale                   : #"en-US"
+title                    : #"Zhang Wen/Personal Page"
+title_separator          : #"-"
+name                     : #&name "Zhang Wen"
+url                      : #"https://wenjohn123.github.io/zhangwen.github.io/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  :   #the subpath of your site, e.g. "/blog"
 repository               : 
 
